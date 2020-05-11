@@ -9,7 +9,7 @@ w3c498
 # Solutions
 
 ## Forensics
-  - Romance Dawn (PNG reconstruction) - 82 pts
+  - [Romance Dawn](/Forensics/Romance Dawn.md) - 82 pts
   - Pain in the ass (Wireshark + "reverse blind SQL injection) - 181 pts
 ## Steganography
   - basic LSB (says it in the title, LSB stego) - 50 pts
