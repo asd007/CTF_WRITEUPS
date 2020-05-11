@@ -85,7 +85,7 @@ Let's try to make a payload (in the actual CTF run the first tests were to put a
       </table>
     </div>
 
-One base64 encode + url encode later (paranoia perhaps urlencode is no longer needed, since we got rid of some '...' strings in the xml), we get a payload (not pasting the string result, as that can vary because of spacing). We then apply that payload to:
+One base64 encode + url encode later (paranoia perhaps urlencode is no longer needed, since we got rid of some '...' strings in the xml, but in the end process is process even when it's error prone and tedious), we get a payload (not pasting the string result, as that can vary because of spacing). We then apply that payload to:
 
     http://webfugu.sharkyctf.xyz/process?page=PGRpdj4K.....
     
