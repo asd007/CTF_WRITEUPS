@@ -28,7 +28,7 @@ No luck here.
 Metadata? Strings? 
 
     asd007@host:/mnt/e/ctf$ identify -verbose 7uffy.png
-    asd007@host::/mnt/e/ctf$ strings 7uffy.png
+    asd007@host:/mnt/e/ctf$ strings 7uffy.png
     
 No dice. ImageMagick listed nothing. Strings listed some mangled random printable chars, nothing useful.
 
