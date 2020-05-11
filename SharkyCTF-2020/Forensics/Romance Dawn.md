@@ -117,6 +117,7 @@ EASY. That's not in the specification. Looking at the output of the previous com
     Binary files 7uffy_1.png and 7uffy_2.png differ
 
 Wohoo! Let's take a breather. (chug beer)
+    
     asd007@host:/mnt/e/ctf$ pngcheck -v 7uffy_1.png
     File: 7uffy_1.png (27352 bytes)
       chunk IHDR at offset 0x0000c, length 13
