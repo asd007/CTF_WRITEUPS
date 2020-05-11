@@ -3,7 +3,7 @@ Whoops. It seems Luffy played with my picture and I'm not able to open it anymor
 
 Creator: 2phi
 
-[image]
+![](../Images/7uffy.PNG)
 
 # Analysis
 
@@ -139,5 +139,7 @@ Wohoo! Let's take a breather. (chug beer)
     
 Fingers crossed! It Worked!
 
-[image]
+# Flag
+
+![](../Images/7uffy_1.PNG)
 
