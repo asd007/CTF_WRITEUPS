@@ -8,4 +8,4 @@ http://erwin.sharkyctf.xyz
 
 # Solution
 
-https://github.com/Polydet/polyglot-database (trivial with this :), I don't think a write-up is necessary, it's all there)
+https://github.com/Polydet/polyglot-database (trivial with this :), I don't think a write-up is necessary, it's all there, you just need to upload the necessary files to get the flag parts and concatenate them)
