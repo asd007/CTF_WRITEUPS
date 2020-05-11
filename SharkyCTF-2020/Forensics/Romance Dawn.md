@@ -3,7 +3,7 @@ Whoops. It seems Luffy played with my picture and I'm not able to open it anymor
 
 Creator: 2phi
 
-![](../Images/7uffy.PNG)
+![](../Images/7uffy.png)
 
 # Analysis
 
@@ -141,5 +141,5 @@ Fingers crossed! It Worked!
 
 # Flag
 
-![](../Images/7uffy_1.PNG)
+![](../Images/7uffy_1.png)
 
