@@ -3,7 +3,7 @@ Whoops. It seems Luffy played with my picture and I'm not able to open it anymor
 
 Creator: 2phi
 
-![](../Images/7uffy.png)
+[7uffy_original](../Images/7uffy.png)
 
 # Analysis
 
