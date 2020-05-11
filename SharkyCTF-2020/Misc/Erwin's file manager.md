@@ -8,7 +8,7 @@ http://erwin.sharkyctf.xyz
 
 # Solution
 
-![]../(Images/erwin_1.PNG)
+![](../Images/erwin_1.PNG)
 
 Pretty straightforward, we see that Erwin has left some code laying around describing the process to obtain the flag. There's a name for files like this: polyglot files, and some pretty crazy things can be accomplished with them. It's a well studied field and a big concern for antivirus/steganography and other fields. Luckily someone has put together a database of test polyglot files: https://github.com/Polydet/polyglot-database.
 
