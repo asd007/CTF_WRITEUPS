@@ -9,8 +9,6 @@ http://webfugu.sharkyctf.xyz
 
 # Solution
 
-Need sleep, will write-up later. Short story (keywords/mnemonics): thymeleaf, java, reflection, base64
-
 Load up the site press F12 to bring up dev tools. Hit refresh. Boom, something interesting:
 
 ![](../Images/webfugu_1.PNG)
