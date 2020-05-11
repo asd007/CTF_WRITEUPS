@@ -112,6 +112,8 @@ Which got us:
 
 ![](../Images/webfugu_5.PNG)
 
+Dig for the flag class too
+
     <div>
     <table border="1">
       <tr>
@@ -156,7 +158,7 @@ Which gets us:
 
 Ha! there is a method called getContent() for the flag class. Overthinker that I am I tried to reflect more :) field.class.getMethod("getContent", flag.class).invoke(flag) and other crazy shenanigans all ending in 500's.
 
-But at some point, I stopped and realized the extent of my shortsightedness (and probably could have "guessed", if I had a Java background) as I suspected I could do what I'm about to do with the next payload. I wanted this payload so that when it was successful, I could see the flag multiple times, so I don't miss it :)
+But at some point, I stopped and realized the extent of my shortsightedness (I probably could have "guessed" the answer much earlier had I had a Java background), as I began suspecting that I could do what I'm about to do with the next payload. I wanted this payload so that when it was successful, I could see the flag multiple times, so I don't miss it :)
 
     <div>
     <table border="1">
