@@ -6,7 +6,7 @@ Do you think you can do something about it?
 
 Creator: Fratso
 
-[pretty_Cat]
+![](../Images/pretty_cat.png)
 
 # Analysis
 
