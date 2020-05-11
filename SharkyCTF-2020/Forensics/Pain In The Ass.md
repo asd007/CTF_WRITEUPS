@@ -62,6 +62,6 @@ Heart pulsing =)) expecting next characters hkCTF{. Confirmed, the rest is histo
 
 There might be a way to "automate" this, which I am not aware of.
 
-Flag: 
+# Flag 
 shkCTF{REDACTED_I_No_Longer_have_it_and_am_not_willing_to_invest_the_time_To_Extract_It_Again}
 
