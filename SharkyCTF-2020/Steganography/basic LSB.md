@@ -34,6 +34,8 @@ When I have time I might actually write a tool, probably based around pngtools, 
 
 Here we go, our bitter win
 
+![](/Images/stego_!)
+
 # Flag
 shkCTF{Y0u_foUnD_m3_thr0ugH_LSB_6a5e99dfacf793e27a}
 
