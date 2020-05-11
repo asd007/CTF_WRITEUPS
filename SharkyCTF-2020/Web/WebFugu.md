@@ -93,7 +93,7 @@ One base64 encode + url encode later (paranoia perhaps urlencode is no longer ne
     
 ![](../Images/webfugu_4.PNG)
 
-Last thing I wanted to see:"REDACTED", the dread of any CTF-er. :):
+Last thing I wanted to see:"REDACTED", the dread of any CTF-er. :). Not giving up yet, let's dig mnore
     
     <div>
     <table border="1">
