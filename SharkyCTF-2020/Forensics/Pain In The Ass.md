@@ -30,7 +30,7 @@ Let's study one.
 
 Nothing particularly interesting about this query. Let's study what happened before.
 
-![](../Images/injection_6.PNG)
+![](../Images/injection_6.png)
 
 information_schema, table_catalog? OFFSET 197. Pretty clever. It appears the attacker is exploiting the error message to dump the names of all the tables in the database. Probably an automated attack or full-blown insanity :) Confirmation (a bit further up). The last table retrieved must have been "user_mapping_options" (out of probably 196 tables retrieved).
 
