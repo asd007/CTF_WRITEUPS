@@ -21,9 +21,16 @@ First things first:
     
 We're in luck, it's an 8 bit image, so 1 byte per pixel, so no need to worry about "color channels"? (I think). 
 
-Let's see whether it's that obvious or there's more to it. I could write some code, but my laziness in high. Let's try to use commandline tools (highly inefficient, but lazniess is high).
+(I spent way too much on this trying to be cool) 
+* I spent hours battling xxd and hexdump and awk and sed. Binary manipulation is not bash's strong part. 
+* Ok I'll write some (surprised?):C# code for this. 
+* I spent more hours battling C# and the intricacies of the png file format. 
 
-I spent hours battling xxd and hexdump and awk and sed. Binary manipulation is not bash's strong part. Ok I'll write some (surprised?):C# code for this. I spent more hours battling C# and the intricacies of the png file format. I could probably write such a tool (wanted to be cool and use no external libraries/code/inspiration). In the end here is the solution I really used in the CTF:
+I could probably write such a tool given time and not from scratch (wanted to be cool and use no external libraries/code/inspiration). At least now I know it's not necessarily trivial to write something like this.
+
+In the end here is the solution I really used in the CTF:
+
+When I have time I might actually write a tool, probably based around pngtools, as I don't trust C# and its forced 24bpp Indexed format.
 
 Here we go, our bitter win
 
