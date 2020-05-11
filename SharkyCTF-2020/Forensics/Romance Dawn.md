@@ -34,7 +34,7 @@ Ok, time to bring the big guns:
 
     asd007@host:/mnt/e/ctf$ sudo apt-get install pngtools
     [moments later]
-    asd007@host:/mnt/e/ctf$ pngchunks 7uffy_1.png
+    asd007@host:/mnt/e/ctf$ pngchunks 7uffy.png
     Chunk: Data Length 13 (max 2147483647), Type 1380206665 [IHDR]
       Critical, public, PNG 1.2 compliant, unsafe to copy
       IHDR Width: 1113
@@ -85,7 +85,7 @@ Ok, time to bring the big guns:
       IEND contains no data
       Chunk CRC: -1371381630
 
-Bingo! 8 "unkknown chunks"
+Bingo! 8 "unknown" chunks
 
 # Fix
 
