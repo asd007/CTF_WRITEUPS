@@ -116,7 +116,7 @@ EASY. That's not in the specification. Looking at the output of the previous com
     asd007@host:/mnt/e/ctf$ diff 7uffy.png 7uffy_1.png
     Binary files 7uffy_1.png and 7uffy_2.png differ
 
-Wohoo! Let's take a breather. (chug beer)
+Ah! The things I do to get out of using hex editors. Aaaaanyway - Wohoo! Let's take a breather. (chug beer)
     
     asd007@host:/mnt/e/ctf$ pngcheck -v 7uffy_1.png
     File: 7uffy_1.png (27352 bytes)
