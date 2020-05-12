@@ -114,7 +114,7 @@ EASY. That's not in the specification. Looking at the output of the previous com
     //let's get creative and take a risk
     asd007@host:/mnt/e/ctf$ hexdump -ve '1/1 "%.2X"' 7uffy.png | sed 's/45415359/49444154/g' | xxd -r -p > 7uffy_1.png
     asd007@host:/mnt/e/ctf$ diff 7uffy.png 7uffy_1.png
-    Binary files 7uffy_1.png and 7uffy_2.png differ
+    Binary files 7uffy.png and 7uffy_1.png differ
 
 Ah! The things I do to get out of using hex editors. Aaaaanyway - Wohoo! Let's take a breather. (chug beer)
     
@@ -135,7 +135,7 @@ Ah! The things I do to get out of using hex editors. Aaaaanyway - Wohoo! Let's t
       chunk IDAT at offset 0x040a0, length 8192
       chunk IDAT at offset 0x060ac, length 2584
       chunk IEND at offset 0x06ad0, length 0
-    No errors detected in 7uffy_2.png (10 chunks, 99.3% compression).
+    No errors detected in 7uffy_1.png (10 chunks, 99.3% compression).
     
 Fingers crossed! It Worked!
 
